@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img  alt='JavaScript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img  alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='35'>
 
-<img  alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='35'>
+<img  alt='PHP' title="PHP" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width='35'>
 <img  alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img  alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
 <img  alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
