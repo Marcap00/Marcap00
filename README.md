@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 ### ✨ Top Repos:
 <div>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-fe-v1.0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-be-v1.0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-fe-v1.0&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/Deliveboo-FE-v1.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-be-v1.0&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/Deliveboo-BE-v1.0)
 
 </div>
 
 ---
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=codeSTACKr&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged" height='350'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcap00&layout=pie&theme=codeSTACKr" height='350' >
@@ -58,4 +57,12 @@ Here are some ideas to get you started:
 <img  alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img  alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
 <img  alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
+</div>
+
+---
+
+<div align='center'>
+  
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcap00&theme=codeSTACKr)](https://github.com/Marcap00/)
+
 </div>
