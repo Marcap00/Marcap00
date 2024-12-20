@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcocapp)](https://github.com/Marcap00)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcocapp&theme=codeSTACKr)](https://github.com/Marcap00)
   
 
 </div>
