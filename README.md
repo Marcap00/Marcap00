@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## Hi, I'm [Marco Cappellato](https://www.https://github.com/Marcap00/)
+## Hi, I'm [Marco Cappellato](https://www.https://github.com/Marcap00/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
 <div align="center" >
   
