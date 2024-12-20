@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=dracula" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcap00&layout=compact&theme=dracula" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=codeSTACKr&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged" height='350'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcap00&layout=pie&theme=codeSTACKr" height='350' >
 </div>
 
 ---
