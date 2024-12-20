@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 
 [<img align="center" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/marco-cappellato-5b83a4322/)
 
+---
+### ✨ Top Repos:
+<div>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-fe-v1.0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-be-v1.0&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
