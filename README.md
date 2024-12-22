@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 [<img align="center" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/marco-cappellato-5b83a4322/)
 
 ---
+### 🚂 In progress:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=wa-clone-be&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/wa-clone-be)
+
+
+---
 ### ✨ Top Repos:
 <div>
   
