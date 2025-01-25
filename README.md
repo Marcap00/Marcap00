@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 [<img align="center" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/marco-cappellato-5b83a4322/)
 
 ---
+### 📚 What am I currently studying?
+
+<img  alt='Java' title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width='35'>
+<img  alt='Typescript' title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
+<img  alt='Angular' title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width='35'>
+
+---
 ### 🚂 In progress:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=wa-clone-be&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/wa-clone-be)
