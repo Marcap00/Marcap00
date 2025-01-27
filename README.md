@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=wa-clone-be&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/wa-clone-be)
 
-
 ---
 ### ✨ Top Repos:
 <div>
