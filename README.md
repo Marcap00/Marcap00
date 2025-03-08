@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&width=500&lines=Junior+Full+Stack+Web+Developer;It's+not+a+bug,+it's+a+feature)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&width=500&lines=Junior+Developer;It's+not+a+bug,+it's+a+feature)](https://git.io/typing-svg)
 
 </div>
 
