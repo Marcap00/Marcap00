@@ -30,15 +30,8 @@ Here are some ideas to get you started:
 ---
 ### 📚 What am I currently studying?
 
-<img  alt='Java' title="Java" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width='35'>
-<img  alt='Spring' title="Spring" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width='35'>
 <img  alt='Typescript' title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
-<img  alt='Angular' title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width='35'>
-
----
-### 🚂 In progress:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=wa-clone-be&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/wa-clone-be)
+<img  alt='React Native' title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width='35'>
 
 ---
 ### ✨ Top Repos:
