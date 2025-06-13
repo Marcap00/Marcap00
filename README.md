@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&width=500&lines=Junior+Developer;It's+not+a+bug,+it's+a+feature)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&width=500&lines=React+Native+Developer;It's+not+a+bug,+it's+a+feature)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,17 +34,8 @@ Here are some ideas to get you started:
 <img  alt='React Native' title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width='35'>
 
 ---
-### ✨ Top Repos:
 <div>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-fe-v1.0&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/Deliveboo-FE-v1.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcap00&repo=deliveboo-be-v1.0&theme=codeSTACKr&show_owner=true)](https://github.com/Marcap00/Deliveboo-BE-v1.0)
-
-</div>
-
----
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=codeSTACKr&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged" height='340'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcap00&layout=pie&theme=codeSTACKr" height='340' >
+  <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=codeSTACKr&rank_icon=github&show=reviews,prs_merged" height='340'>
 </div>
 
 ---
