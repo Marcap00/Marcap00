@@ -28,20 +28,19 @@ Here are some ideas to get you started:
 [<img align="center" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/marco-cappellato-5b83a4322/)
 
 ---
-### 📚 What am I currently studying?
 
-<img  alt='Typescript' title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
-<img  alt='React Native' title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width='35'>
-
----
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=marcap00&show_icons=true&theme=codeSTACKr&rank_icon=github&show=reviews,prs_merged" height='340'>
 </div>
 
 ---
 
+### 📚 Mobile Development Tech Stack:
 
-### 💻 Tech Stack:
+<img  alt='Typescript' title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
+<img  alt='React Native' title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width='35'>
+
+### 💻 Web Development Tech Stack:
   
 <img  alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'>
 <img  alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
